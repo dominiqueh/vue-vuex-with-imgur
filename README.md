@@ -1,4 +1,5 @@
 # images
+A project created following, 'Vue JS Essentials with Vuex and Vue Router' course by Stephen Grider.
 
 ## Project setup
 ```
